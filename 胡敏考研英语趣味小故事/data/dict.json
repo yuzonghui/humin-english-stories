@@ -1,0 +1,1590 @@
+{
+  "a": {
+    "cn": "一个（冠词）",
+    "ipa": "/ə/"
+  },
+  "an": {
+    "cn": "一个（冠词）",
+    "ipa": "/ən/"
+  },
+  "the": {
+    "cn": "这；那（定冠词）",
+    "ipa": "/ðə/"
+  },
+  "and": {
+    "cn": "和；并且",
+    "ipa": "/ænd/"
+  },
+  "or": {
+    "cn": "或者",
+    "ipa": "/ɔːr/"
+  },
+  "but": {
+    "cn": "但是",
+    "ipa": "/bʌt/"
+  },
+  "so": {
+    "cn": "所以；如此",
+    "ipa": "/soʊ/"
+  },
+  "if": {
+    "cn": "如果",
+    "ipa": "/ɪf/"
+  },
+  "of": {
+    "cn": "…的",
+    "ipa": "/ʌv/"
+  },
+  "to": {
+    "cn": "向；到；去",
+    "ipa": "/tuː/"
+  },
+  "in": {
+    "cn": "在…里",
+    "ipa": "/ɪn/"
+  },
+  "on": {
+    "cn": "在…上",
+    "ipa": "/ɑːn/"
+  },
+  "at": {
+    "cn": "在（某处/某时）",
+    "ipa": "/æt/"
+  },
+  "by": {
+    "cn": "被；通过；在…旁",
+    "ipa": "/baɪ/"
+  },
+  "for": {
+    "cn": "为了；对于",
+    "ipa": "/fɔːr/"
+  },
+  "from": {
+    "cn": "从；来自",
+    "ipa": "/frʌm/"
+  },
+  "with": {
+    "cn": "和；用；带有",
+    "ipa": "/wɪð/"
+  },
+  "without": {
+    "cn": "没有",
+    "ipa": "/wɪˈðaʊt/"
+  },
+  "into": {
+    "cn": "进入",
+    "ipa": "/ˈɪntuː/"
+  },
+  "upon": {
+    "cn": "在…上（正式）",
+    "ipa": "/əˈpɑːn/"
+  },
+  "under": {
+    "cn": "在…下面",
+    "ipa": "/ˈʌndər/"
+  },
+  "over": {
+    "cn": "在…上方；越过",
+    "ipa": "/ˈoʊvər/"
+  },
+  "out": {
+    "cn": "向外",
+    "ipa": "/aʊt/"
+  },
+  "up": {
+    "cn": "向上",
+    "ipa": "/ʌp/"
+  },
+  "down": {
+    "cn": "向下",
+    "ipa": "/daʊn/"
+  },
+  "about": {
+    "cn": "关于；大约",
+    "ipa": "/əˈbaʊt/"
+  },
+  "there": {
+    "cn": "那里",
+    "ipa": "/ðer/"
+  },
+  "that": {
+    "cn": "那个；那",
+    "ipa": "/ðæt/"
+  },
+  "this": {
+    "cn": "这个",
+    "ipa": "/ðɪs/"
+  },
+  "they": {
+    "cn": "他们/她们/它们",
+    "ipa": "/ðeɪ/"
+  },
+  "she": {
+    "cn": "她",
+    "ipa": "/ʃiː/"
+  },
+  "he": {
+    "cn": "他",
+    "ipa": "/hiː/"
+  },
+  "her": {
+    "cn": "她的；她（宾格）",
+    "ipa": "/hɜːr/"
+  },
+  "his": {
+    "cn": "他的",
+    "ipa": "/hɪz/"
+  },
+  "their": {
+    "cn": "他们的",
+    "ipa": "/ðer/"
+  },
+  "our": {
+    "cn": "我们的",
+    "ipa": "/aʊər/"
+  },
+  "my": {
+    "cn": "我的",
+    "ipa": "/maɪ/"
+  },
+  "your": {
+    "cn": "你的",
+    "ipa": "/jʊr/"
+  },
+  "it": {
+    "cn": "它",
+    "ipa": "/ɪt/"
+  },
+  "we": {
+    "cn": "我们",
+    "ipa": "/wiː/"
+  },
+  "you": {
+    "cn": "你；你们",
+    "ipa": "/juː/"
+  },
+  "who": {
+    "cn": "谁",
+    "ipa": "/huː/"
+  },
+  "what": {
+    "cn": "什么",
+    "ipa": "/wʌt/"
+  },
+  "when": {
+    "cn": "当…时",
+    "ipa": "/wen/"
+  },
+  "where": {
+    "cn": "在哪里",
+    "ipa": "/wer/"
+  },
+  "why": {
+    "cn": "为什么",
+    "ipa": "/waɪ/"
+  },
+  "how": {
+    "cn": "如何",
+    "ipa": "/haʊ/"
+  },
+  "all": {
+    "cn": "所有",
+    "ipa": "/ɔːl/"
+  },
+  "each": {
+    "cn": "每个",
+    "ipa": "/iːtʃ/"
+  },
+  "every": {
+    "cn": "每个",
+    "ipa": "/ˈevri/"
+  },
+  "some": {
+    "cn": "一些",
+    "ipa": "/sʌm/"
+  },
+  "any": {
+    "cn": "任何",
+    "ipa": "/ˈeni/"
+  },
+  "many": {
+    "cn": "许多",
+    "ipa": "/ˈmeni/"
+  },
+  "few": {
+    "cn": "很少；几个",
+    "ipa": "/fjuː/"
+  },
+  "one": {
+    "cn": "一；一个",
+    "ipa": "/wʌn/"
+  },
+  "two": {
+    "cn": "二",
+    "ipa": "/tuː/"
+  },
+  "first": {
+    "cn": "第一；首先",
+    "ipa": "/fɜːrst/"
+  },
+  "last": {
+    "cn": "最后；上一个",
+    "ipa": "/læst/"
+  },
+  "next": {
+    "cn": "下一个",
+    "ipa": "/nekst/"
+  },
+  "other": {
+    "cn": "其他的",
+    "ipa": "/ˈʌðər/"
+  },
+  "another": {
+    "cn": "另一个",
+    "ipa": "/əˈnʌðər/"
+  },
+  "more": {
+    "cn": "更多",
+    "ipa": "/mɔːr/"
+  },
+  "most": {
+    "cn": "最多",
+    "ipa": "/moʊst/"
+  },
+  "very": {
+    "cn": "非常",
+    "ipa": "/ˈveri/"
+  },
+  "too": {
+    "cn": "也；太",
+    "ipa": "/tuː/"
+  },
+  "also": {
+    "cn": "也",
+    "ipa": "/ˈɔːlsoʊ/"
+  },
+  "just": {
+    "cn": "只是；刚刚",
+    "ipa": "/dʒʌst/"
+  },
+  "only": {
+    "cn": "只有",
+    "ipa": "/ˈoʊnli/"
+  },
+  "even": {
+    "cn": "甚至",
+    "ipa": "/ˈiːvən/"
+  },
+  "yet": {
+    "cn": "还；然而",
+    "ipa": "/jet/"
+  },
+  "still": {
+    "cn": "仍然",
+    "ipa": "/stɪl/"
+  },
+  "already": {
+    "cn": "已经",
+    "ipa": "/ɔːlˈredi/"
+  },
+  "again": {
+    "cn": "再次",
+    "ipa": "/əˈɡen/"
+  },
+  "once": {
+    "cn": "曾经；一次",
+    "ipa": "/wʌns/"
+  },
+  "sometimes": {
+    "cn": "有时",
+    "ipa": "/ˈsʌmtaɪmz/"
+  },
+  "never": {
+    "cn": "从不",
+    "ipa": "/ˈnevər/"
+  },
+  "always": {
+    "cn": "总是",
+    "ipa": "/ˈɔːlweɪz/"
+  },
+  "often": {
+    "cn": "经常",
+    "ipa": "/ˈɔːfən/"
+  },
+  "soon": {
+    "cn": "很快",
+    "ipa": "/suːn/"
+  },
+  "now": {
+    "cn": "现在",
+    "ipa": "/naʊ/"
+  },
+  "then": {
+    "cn": "然后",
+    "ipa": "/ðen/"
+  },
+  "today": {
+    "cn": "今天",
+    "ipa": "/təˈdeɪ/"
+  },
+  "tomorrow": {
+    "cn": "明天",
+    "ipa": "/təˈmɑːroʊ/"
+  },
+  "yesterday": {
+    "cn": "昨天",
+    "ipa": "/ˈjestərdeɪ/"
+  },
+  "here": {
+    "cn": "这里",
+    "ipa": "/hɪr/"
+  },
+  "be": {
+    "cn": "是；在",
+    "ipa": "/biː/"
+  },
+  "have": {
+    "cn": "有",
+    "ipa": "/hæv/"
+  },
+  "do": {
+    "cn": "做；助动词",
+    "ipa": "/duː/"
+  },
+  "will": {
+    "cn": "将；会",
+    "ipa": "/wɪl/"
+  },
+  "would": {
+    "cn": "会；愿意",
+    "ipa": "/wʊd/"
+  },
+  "could": {
+    "cn": "能够；可以",
+    "ipa": "/kʊd/"
+  },
+  "should": {
+    "cn": "应该",
+    "ipa": "/ʃʊd/"
+  },
+  "can": {
+    "cn": "能",
+    "ipa": "/kæn/"
+  },
+  "may": {
+    "cn": "可能",
+    "ipa": "/meɪ/"
+  },
+  "must": {
+    "cn": "必须",
+    "ipa": "/mʌst/"
+  },
+  "might": {
+    "cn": "可能",
+    "ipa": "/maɪt/"
+  },
+  "go": {
+    "cn": "去",
+    "ipa": "/ɡoʊ/"
+  },
+  "come": {
+    "cn": "来",
+    "ipa": "/kʌm/"
+  },
+  "get": {
+    "cn": "得到；变得",
+    "ipa": "/ɡet/"
+  },
+  "make": {
+    "cn": "制作；使",
+    "ipa": "/meɪk/"
+  },
+  "take": {
+    "cn": "拿；取",
+    "ipa": "/teɪk/"
+  },
+  "give": {
+    "cn": "给",
+    "ipa": "/ɡɪv/"
+  },
+  "find": {
+    "cn": "找到",
+    "ipa": "/faɪnd/"
+  },
+  "think": {
+    "cn": "想；认为",
+    "ipa": "/θɪŋk/"
+  },
+  "know": {
+    "cn": "知道",
+    "ipa": "/noʊ/"
+  },
+  "see": {
+    "cn": "看见",
+    "ipa": "/siː/"
+  },
+  "look": {
+    "cn": "看",
+    "ipa": "/lʊk/"
+  },
+  "hear": {
+    "cn": "听见",
+    "ipa": "/hɪr/"
+  },
+  "listen": {
+    "cn": "听",
+    "ipa": "/ˈlɪsən/"
+  },
+  "say": {
+    "cn": "说",
+    "ipa": "/seɪ/"
+  },
+  "tell": {
+    "cn": "告诉",
+    "ipa": "/tel/"
+  },
+  "ask": {
+    "cn": "问",
+    "ipa": "/æsk/"
+  },
+  "speak": {
+    "cn": "说；讲",
+    "ipa": "/spiːk/"
+  },
+  "read": {
+    "cn": "读（过去式/原形）",
+    "ipa": "/riːd/"
+  },
+  "write": {
+    "cn": "写",
+    "ipa": "/raɪt/"
+  },
+  "learn": {
+    "cn": "学习",
+    "ipa": "/lɜːrn/"
+  },
+  "study": {
+    "cn": "学习",
+    "ipa": "/ˈstʌdi/"
+  },
+  "teach": {
+    "cn": "教",
+    "ipa": "/tiːtʃ/"
+  },
+  "work": {
+    "cn": "工作；起作用",
+    "ipa": "/wɜːrk/"
+  },
+  "try": {
+    "cn": "尝试",
+    "ipa": "/traɪ/"
+  },
+  "help": {
+    "cn": "帮助",
+    "ipa": "/help/"
+  },
+  "use": {
+    "cn": "使用",
+    "ipa": "/juːz/"
+  },
+  "need": {
+    "cn": "需要",
+    "ipa": "/niːd/"
+  },
+  "want": {
+    "cn": "想要",
+    "ipa": "/wɑːnt/"
+  },
+  "like": {
+    "cn": "喜欢",
+    "ipa": "/laɪk/"
+  },
+  "love": {
+    "cn": "爱",
+    "ipa": "/lʌv/"
+  },
+  "hope": {
+    "cn": "希望",
+    "ipa": "/hoʊp/"
+  },
+  "believe": {
+    "cn": "相信",
+    "ipa": "/bɪˈliːv/"
+  },
+  "remember": {
+    "cn": "记住",
+    "ipa": "/rɪˈmembər/"
+  },
+  "forget": {
+    "cn": "忘记",
+    "ipa": "/fərˈɡet/"
+  },
+  "understand": {
+    "cn": "理解",
+    "ipa": "/ˌʌndərˈstænd/"
+  },
+  "decide": {
+    "cn": "决定",
+    "ipa": "/dɪˈsaɪd/"
+  },
+  "choose": {
+    "cn": "选择",
+    "ipa": "/tʃuːz/"
+  },
+  "start": {
+    "cn": "开始",
+    "ipa": "/stɑːrt/"
+  },
+  "begin": {
+    "cn": "开始",
+    "ipa": "/bɪˈɡɪn/"
+  },
+  "end": {
+    "cn": "结束",
+    "ipa": "/end/"
+  },
+  "stop": {
+    "cn": "停止",
+    "ipa": "/stɑːp/"
+  },
+  "stay": {
+    "cn": "停留；保持",
+    "ipa": "/steɪ/"
+  },
+  "leave": {
+    "cn": "离开",
+    "ipa": "/liːv/"
+  },
+  "keep": {
+    "cn": "保持",
+    "ipa": "/kiːp/"
+  },
+  "change": {
+    "cn": "改变",
+    "ipa": "/tʃeɪndʒ/"
+  },
+  "grow": {
+    "cn": "成长；生长",
+    "ipa": "/ɡroʊ/"
+  },
+  "lead": {
+    "cn": "导致；引领",
+    "ipa": "/liːd/"
+  },
+  "improve": {
+    "cn": "提高",
+    "ipa": "/ɪmˈpruːv/"
+  },
+  "practice": {
+    "cn": "练习",
+    "ipa": "/ˈpræktɪs/"
+  },
+  "observe": {
+    "cn": "观察",
+    "ipa": "/əbˈzɜːrv/"
+  },
+  "notice": {
+    "cn": "注意到",
+    "ipa": "/ˈnoʊtɪs/"
+  },
+  "pass": {
+    "cn": "经过；通过",
+    "ipa": "/pæs/"
+  },
+  "cross": {
+    "cn": "穿过",
+    "ipa": "/krɔːs/"
+  },
+  "wait": {
+    "cn": "等待",
+    "ipa": "/weɪt/"
+  },
+  "walk": {
+    "cn": "走；散步",
+    "ipa": "/wɔːk/"
+  },
+  "run": {
+    "cn": "跑",
+    "ipa": "/rʌn/"
+  },
+  "swim": {
+    "cn": "游泳",
+    "ipa": "/swɪm/"
+  },
+  "meet": {
+    "cn": "遇见",
+    "ipa": "/miːt/"
+  },
+  "share": {
+    "cn": "分享",
+    "ipa": "/ʃer/"
+  },
+  "laugh": {
+    "cn": "笑",
+    "ipa": "/læf/"
+  },
+  "smile": {
+    "cn": "微笑",
+    "ipa": "/smaɪl/"
+  },
+  "turn": {
+    "cn": "转动；变成",
+    "ipa": "/tɜːrn/"
+  },
+  "close": {
+    "cn": "关闭",
+    "ipa": "/kloʊz/"
+  },
+  "open": {
+    "cn": "打开",
+    "ipa": "/ˈoʊpən/"
+  },
+  "finish": {
+    "cn": "完成",
+    "ipa": "/ˈfɪnɪʃ/"
+  },
+  "name": {
+    "cn": "命名；名字",
+    "ipa": "/neɪm/"
+  },
+  "shine": {
+    "cn": "照耀",
+    "ipa": "/ʃaɪn/"
+  },
+  "feel": {
+    "cn": "感觉",
+    "ipa": "/fiːl/"
+  },
+  "call": {
+    "cn": "叫；称呼",
+    "ipa": "/kɔːl/"
+  },
+  "advice": {
+    "cn": "建议",
+    "ipa": "/ədˈvaɪs/"
+  },
+  "air": {
+    "cn": "空气",
+    "ipa": "/er/"
+  },
+  "aloud": {
+    "cn": "大声地",
+    "ipa": "/əˈlaʊd/"
+  },
+  "april": {
+    "cn": "四月",
+    "ipa": "/ˈeɪprəl/"
+  },
+  "autumn": {
+    "cn": "秋天",
+    "ipa": "/ˈɔːtəm/"
+  },
+  "beach": {
+    "cn": "海滩",
+    "ipa": "/biːtʃ/"
+  },
+  "bench": {
+    "cn": "长椅",
+    "ipa": "/bentʃ/"
+  },
+  "bicycle": {
+    "cn": "自行车",
+    "ipa": "/ˈbaɪsɪkl/"
+  },
+  "big": {
+    "cn": "大的；重大的",
+    "ipa": "/bɪɡ/"
+  },
+  "blue": {
+    "cn": "蓝色的",
+    "ipa": "/bluː/"
+  },
+  "boat": {
+    "cn": "船",
+    "ipa": "/boʊt/"
+  },
+  "book": {
+    "cn": "书",
+    "ipa": "/bʊk/"
+  },
+  "box": {
+    "cn": "盒子",
+    "ipa": "/bɑːks/"
+  },
+  "bread": {
+    "cn": "面包",
+    "ipa": "/bred/"
+  },
+  "bridge": {
+    "cn": "桥",
+    "ipa": "/brɪdʒ/"
+  },
+  "bright": {
+    "cn": "明亮的",
+    "ipa": "/braɪt/"
+  },
+  "broken": {
+    "cn": "破碎的",
+    "ipa": "/ˈbroʊkən/"
+  },
+  "building": {
+    "cn": "建筑物",
+    "ipa": "/ˈbɪldɪŋ/"
+  },
+  "bus": {
+    "cn": "公共汽车",
+    "ipa": "/bʌs/"
+  },
+  "cafe": {
+    "cn": "咖啡馆",
+    "ipa": "/kæˈfeɪ/"
+  },
+  "caf": {
+    "cn": "咖啡馆",
+    "ipa": "/kæˈfeɪ/"
+  },
+  "café": {
+    "cn": "咖啡馆",
+    "ipa": "/kæˈfeɪ/"
+  },
+  "calm": {
+    "cn": "平静的",
+    "ipa": "/kɑːm/"
+  },
+  "carefully": {
+    "cn": "仔细地",
+    "ipa": "/ˈkerfəli/"
+  },
+  "cat": {
+    "cn": "猫",
+    "ipa": "/kæt/"
+  },
+  "choice": {
+    "cn": "选择",
+    "ipa": "/tʃɔɪs/"
+  },
+  "city": {
+    "cn": "城市",
+    "ipa": "/ˈsɪti/"
+  },
+  "class": {
+    "cn": "课；班级",
+    "ipa": "/klæs/"
+  },
+  "clock": {
+    "cn": "时钟",
+    "ipa": "/klɑːk/"
+  },
+  "closely": {
+    "cn": "仔细地",
+    "ipa": "/ˈkloʊsli/"
+  },
+  "coat": {
+    "cn": "外套",
+    "ipa": "/koʊt/"
+  },
+  "coffee": {
+    "cn": "咖啡",
+    "ipa": "/ˈkɔːfi/"
+  },
+  "coin": {
+    "cn": "硬币",
+    "ipa": "/kɔɪn/"
+  },
+  "courage": {
+    "cn": "勇气",
+    "ipa": "/ˈkɜːrɪdʒ/"
+  },
+  "cup": {
+    "cn": "杯子",
+    "ipa": "/kʌp/"
+  },
+  "dark": {
+    "cn": "黑暗的",
+    "ipa": "/dɑːrk/"
+  },
+  "dawn": {
+    "cn": "黎明",
+    "ipa": "/dɔːn/"
+  },
+  "day": {
+    "cn": "天；白天",
+    "ipa": "/deɪ/"
+  },
+  "decision": {
+    "cn": "决定",
+    "ipa": "/dɪˈsɪʒən/"
+  },
+  "detail": {
+    "cn": "细节",
+    "ipa": "/ˈdiːteɪl/"
+  },
+  "diamond": {
+    "cn": "钻石",
+    "ipa": "/ˈdaɪmənd/"
+  },
+  "door": {
+    "cn": "门",
+    "ipa": "/dɔːr/"
+  },
+  "dream": {
+    "cn": "梦；梦想",
+    "ipa": "/driːm/"
+  },
+  "english": {
+    "cn": "英语",
+    "ipa": "/ˈɪŋɡlɪʃ/"
+  },
+  "evening": {
+    "cn": "傍晚",
+    "ipa": "/ˈiːvnɪŋ/"
+  },
+  "exam": {
+    "cn": "考试",
+    "ipa": "/ɪɡˈzæm/"
+  },
+  "eye": {
+    "cn": "眼睛",
+    "ipa": "/aɪ/"
+  },
+  "flag": {
+    "cn": "旗帜",
+    "ipa": "/flæɡ/"
+  },
+  "friend": {
+    "cn": "朋友",
+    "ipa": "/frend/"
+  },
+  "friendship": {
+    "cn": "友谊",
+    "ipa": "/ˈfrendʃɪp/"
+  },
+  "garden": {
+    "cn": "花园",
+    "ipa": "/ˈɡɑːrdn/"
+  },
+  "gate": {
+    "cn": "大门",
+    "ipa": "/ɡeɪt/"
+  },
+  "gift": {
+    "cn": "礼物",
+    "ipa": "/ɡɪft/"
+  },
+  "habit": {
+    "cn": "习惯",
+    "ipa": "/ˈhæbɪt/"
+  },
+  "hill": {
+    "cn": "小山",
+    "ipa": "/hɪl/"
+  },
+  "home": {
+    "cn": "家",
+    "ipa": "/hoʊm/"
+  },
+  "honest": {
+    "cn": "诚实的",
+    "ipa": "/ˈɑːnɪst/"
+  },
+  "important": {
+    "cn": "重要的",
+    "ipa": "/ɪmˈpɔːrtnt/"
+  },
+  "key": {
+    "cn": "钥匙",
+    "ipa": "/kiː/"
+  },
+  "lesson": {
+    "cn": "课；教训",
+    "ipa": "/ˈlesn/"
+  },
+  "letter": {
+    "cn": "信；字母",
+    "ipa": "/ˈletər/"
+  },
+  "library": {
+    "cn": "图书馆",
+    "ipa": "/ˈlaɪbreri/"
+  },
+  "light": {
+    "cn": "光；灯",
+    "ipa": "/laɪt/"
+  },
+  "lily": {
+    "cn": "莉莉（人名）",
+    "ipa": "/ˈlɪli/"
+  },
+  "little": {
+    "cn": "小的；少的",
+    "ipa": "/ˈlɪtl/"
+  },
+  "long": {
+    "cn": "长的；久的",
+    "ipa": "/lɔːŋ/"
+  },
+  "map": {
+    "cn": "地图",
+    "ipa": "/mæp/"
+  },
+  "market": {
+    "cn": "市场",
+    "ipa": "/ˈmɑːrkɪt/"
+  },
+  "memory": {
+    "cn": "记忆",
+    "ipa": "/ˈmeməri/"
+  },
+  "mind": {
+    "cn": "头脑；心思",
+    "ipa": "/maɪnd/"
+  },
+  "mirror": {
+    "cn": "镜子",
+    "ipa": "/ˈmɪrər/"
+  },
+  "mistake": {
+    "cn": "错误",
+    "ipa": "/mɪˈsteɪk/"
+  },
+  "mom": {
+    "cn": "妈妈",
+    "ipa": "/mɑːm/"
+  },
+  "monday": {
+    "cn": "星期一",
+    "ipa": "/ˈmʌndeɪ/"
+  },
+  "month": {
+    "cn": "月",
+    "ipa": "/mʌnθ/"
+  },
+  "morning": {
+    "cn": "早晨",
+    "ipa": "/ˈmɔːrnɪŋ/"
+  },
+  "music": {
+    "cn": "音乐",
+    "ipa": "/ˈmjuːzɪk/"
+  },
+  "neighbor": {
+    "cn": "邻居",
+    "ipa": "/ˈneɪbər/"
+  },
+  "notebook": {
+    "cn": "笔记本",
+    "ipa": "/ˈnoʊtbʊk/"
+  },
+  "oak": {
+    "cn": "橡树",
+    "ipa": "/oʊk/"
+  },
+  "paper": {
+    "cn": "纸",
+    "ipa": "/ˈpeɪpər/"
+  },
+  "park": {
+    "cn": "公园",
+    "ipa": "/pɑːrk/"
+  },
+  "path": {
+    "cn": "小路",
+    "ipa": "/pæθ/"
+  },
+  "patience": {
+    "cn": "耐心",
+    "ipa": "/ˈpeɪʃns/"
+  },
+  "peaceful": {
+    "cn": "平静的",
+    "ipa": "/ˈpiːsfl/"
+  },
+  "people": {
+    "cn": "人们",
+    "ipa": "/ˈpiːpl/"
+  },
+  "perfect": {
+    "cn": "完美的",
+    "ipa": "/ˈpɜːrfɪkt/"
+  },
+  "phone": {
+    "cn": "电话",
+    "ipa": "/foʊn/"
+  },
+  "photograph": {
+    "cn": "照片",
+    "ipa": "/ˈfoʊtəɡræf/"
+  },
+  "phrase": {
+    "cn": "短语",
+    "ipa": "/freɪz/"
+  },
+  "plane": {
+    "cn": "飞机",
+    "ipa": "/pleɪn/"
+  },
+  "progress": {
+    "cn": "进步",
+    "ipa": "/ˈprɑːɡres/"
+  },
+  "rain": {
+    "cn": "雨",
+    "ipa": "/reɪn/"
+  },
+  "recipe": {
+    "cn": "食谱",
+    "ipa": "/ˈresəpi/"
+  },
+  "ring": {
+    "cn": "戒指",
+    "ipa": "/rɪŋ/"
+  },
+  "river": {
+    "cn": "河",
+    "ipa": "/ˈrɪvər/"
+  },
+  "road": {
+    "cn": "路",
+    "ipa": "/roʊd/"
+  },
+  "room": {
+    "cn": "房间",
+    "ipa": "/ruːm/"
+  },
+  "secret": {
+    "cn": "秘密",
+    "ipa": "/ˈsiːkrət/"
+  },
+  "seed": {
+    "cn": "种子",
+    "ipa": "/siːd/"
+  },
+  "sentence": {
+    "cn": "句子",
+    "ipa": "/ˈsentəns/"
+  },
+  "sky": {
+    "cn": "天空",
+    "ipa": "/skaɪ/"
+  },
+  "snow": {
+    "cn": "雪",
+    "ipa": "/snoʊ/"
+  },
+  "song": {
+    "cn": "歌曲",
+    "ipa": "/sɔːŋ/"
+  },
+  "star": {
+    "cn": "星星",
+    "ipa": "/stɑːr/"
+  },
+  "step": {
+    "cn": "步骤；台阶",
+    "ipa": "/step/"
+  },
+  "stone": {
+    "cn": "石头",
+    "ipa": "/stoʊn/"
+  },
+  "story": {
+    "cn": "故事",
+    "ipa": "/ˈstɔːri/"
+  },
+  "street": {
+    "cn": "街道",
+    "ipa": "/striːt/"
+  },
+  "student": {
+    "cn": "学生",
+    "ipa": "/ˈstuːdnt/"
+  },
+  "success": {
+    "cn": "成功",
+    "ipa": "/səkˈses/"
+  },
+  "summer": {
+    "cn": "夏天",
+    "ipa": "/ˈsʌmər/"
+  },
+  "sun": {
+    "cn": "太阳",
+    "ipa": "/sʌn/"
+  },
+  "sunset": {
+    "cn": "日落",
+    "ipa": "/ˈsʌnset/"
+  },
+  "teacher": {
+    "cn": "老师",
+    "ipa": "/ˈtiːtʃər/"
+  },
+  "tea": {
+    "cn": "茶",
+    "ipa": "/tiː/"
+  },
+  "tower": {
+    "cn": "塔",
+    "ipa": "/ˈtaʊər/"
+  },
+  "town": {
+    "cn": "城镇",
+    "ipa": "/taʊn/"
+  },
+  "train": {
+    "cn": "火车",
+    "ipa": "/treɪn/"
+  },
+  "tree": {
+    "cn": "树",
+    "ipa": "/triː/"
+  },
+  "village": {
+    "cn": "村庄",
+    "ipa": "/ˈvɪlɪdʒ/"
+  },
+  "watch": {
+    "cn": "手表；观看",
+    "ipa": "/wɑːtʃ/"
+  },
+  "wave": {
+    "cn": "波浪",
+    "ipa": "/weɪv/"
+  },
+  "week": {
+    "cn": "周",
+    "ipa": "/wiːk/"
+  },
+  "window": {
+    "cn": "窗户",
+    "ipa": "/ˈwɪndoʊ/"
+  },
+  "wind": {
+    "cn": "风",
+    "ipa": "/wɪnd/"
+  },
+  "winter": {
+    "cn": "冬天",
+    "ipa": "/ˈwɪntər/"
+  },
+  "wise": {
+    "cn": "智慧的",
+    "ipa": "/waɪz/"
+  },
+  "wood": {
+    "cn": "木头",
+    "ipa": "/wʊd/"
+  },
+  "word": {
+    "cn": "单词",
+    "ipa": "/wɜːrd/"
+  },
+  "world": {
+    "cn": "世界",
+    "ipa": "/wɜːrld/"
+  },
+  "young": {
+    "cn": "年轻的",
+    "ipa": "/jʌŋ/"
+  },
+  "time": {
+    "cn": "时间",
+    "ipa": "/taɪm/"
+  },
+  "small": {
+    "cn": "小的",
+    "ipa": "/smɔːl/"
+  },
+  "old": {
+    "cn": "老的；旧的",
+    "ipa": "/oʊld/"
+  },
+  "rose": {
+    "cn": "升起（rise 的过去式）",
+    "ipa": "/roʊz/"
+  },
+  "rise": {
+    "cn": "升起",
+    "ipa": "/raɪz/"
+  },
+  "night": {
+    "cn": "夜晚",
+    "ipa": "/naɪt/"
+  },
+  "new": {
+    "cn": "新的",
+    "ipa": "/nuː/"
+  },
+  "closed": {
+    "cn": "关闭的",
+    "ipa": "/kloʊzd/"
+  },
+  "lost": {
+    "cn": "丢失的；迷路的",
+    "ipa": "/lɔːst/"
+  },
+  "lose": {
+    "cn": "丢失",
+    "ipa": "/luːz/"
+  },
+  "late": {
+    "cn": "晚的；迟的",
+    "ipa": "/leɪt/"
+  },
+  "meeting": {
+    "cn": "相遇；会面",
+    "ipa": "/ˈmiːtɪŋ/"
+  },
+  "waves": {
+    "cn": "波浪（复数）",
+    "ipa": "/weɪvz/"
+  },
+  "shared": {
+    "cn": "分享的",
+    "ipa": "/ʃerd/"
+  },
+  "empty": {
+    "cn": "空的",
+    "ipa": "/ˈempti/"
+  },
+  "faded": {
+    "cn": "褪色的",
+    "ipa": "/ˈfeɪdɪd/"
+  },
+  "final": {
+    "cn": "最后的",
+    "ipa": "/ˈfaɪnl/"
+  },
+  "fire": {
+    "cn": "火；炉火",
+    "ipa": "/faɪər/"
+  },
+  "fresh": {
+    "cn": "新鲜的",
+    "ipa": "/freʃ/"
+  },
+  "golden": {
+    "cn": "金色的",
+    "ipa": "/ˈɡoʊldən/"
+  },
+  "green": {
+    "cn": "绿色的",
+    "ipa": "/ɡriːn/"
+  },
+  "hidden": {
+    "cn": "隐藏的",
+    "ipa": "/ˈhɪdn/"
+  },
+  "locked": {
+    "cn": "锁住的",
+    "ipa": "/lɑːkt/"
+  },
+  "narrow": {
+    "cn": "狭窄的",
+    "ipa": "/ˈnæroʊ/"
+  },
+  "painted": {
+    "cn": "彩绘的",
+    "ipa": "/ˈpeɪntɪd/"
+  },
+  "quiet": {
+    "cn": "安静的",
+    "ipa": "/ˈkwaɪət/"
+  },
+  "red": {
+    "cn": "红色的",
+    "ipa": "/red/"
+  },
+  "silent": {
+    "cn": "沉默的",
+    "ipa": "/ˈsaɪlənt/"
+  },
+  "silver": {
+    "cn": "银色的",
+    "ipa": "/ˈsɪlvər/"
+  },
+  "simple": {
+    "cn": "简单的",
+    "ipa": "/ˈsɪmpl/"
+  },
+  "strange": {
+    "cn": "奇怪的",
+    "ipa": "/streɪndʒ/"
+  },
+  "tall": {
+    "cn": "高的",
+    "ipa": "/tɔːl/"
+  },
+  "tiny": {
+    "cn": "微小的",
+    "ipa": "/ˈtaɪni/"
+  },
+  "true": {
+    "cn": "真正的",
+    "ipa": "/truː/"
+  },
+  "unexpected": {
+    "cn": "意外的",
+    "ipa": "/ˌʌnɪkˈspektɪd/"
+  },
+  "unsent": {
+    "cn": "未寄出的",
+    "ipa": "/ʌnˈsent/"
+  },
+  "warm": {
+    "cn": "温暖的",
+    "ipa": "/wɔːrm/"
+  },
+  "white": {
+    "cn": "白色",
+    "ipa": "/waɪt/"
+  },
+  "whole": {
+    "cn": "整个的",
+    "ipa": "/hoʊl/"
+  },
+  "wooden": {
+    "cn": "木制的",
+    "ipa": "/ˈwʊdn/"
+  },
+  "grandma": {
+    "cn": "奶奶；外婆",
+    "ipa": "/ˈɡræmɑː/"
+  },
+  "asked": {
+    "cn": "询问",
+    "ipa": "/æskt/"
+  },
+  "begins": {
+    "cn": "开始",
+    "ipa": "/bɪˈɡɪnz/"
+  },
+  "believed": {
+    "cn": "相信",
+    "ipa": "/bɪˈliːvd/"
+  },
+  "changes": {
+    "cn": "改变",
+    "ipa": "/ˈtʃeɪndʒɪz/"
+  },
+  "decided": {
+    "cn": "决定",
+    "ipa": "/dɪˈsaɪdɪd/"
+  },
+  "felt": {
+    "cn": "感到",
+    "ipa": "/felt/"
+  },
+  "finished": {
+    "cn": "完成",
+    "ipa": "/ˈfɪnɪʃt/"
+  },
+  "gave": {
+    "cn": "给（过去式）",
+    "ipa": "/ɡeɪv/"
+  },
+  "had": {
+    "cn": "有（过去式）",
+    "ipa": "/hæd/"
+  },
+  "kept": {
+    "cn": "保持（过去式）",
+    "ipa": "/kept/"
+  },
+  "knew": {
+    "cn": "知道（过去式）",
+    "ipa": "/nuː/"
+  },
+  "laughed": {
+    "cn": "笑了",
+    "ipa": "/læft/"
+  },
+  "listened": {
+    "cn": "听了",
+    "ipa": "/ˈlɪsnd/"
+  },
+  "looked": {
+    "cn": "看了",
+    "ipa": "/lʊkt/"
+  },
+  "makes": {
+    "cn": "使；制作（第三人称）",
+    "ipa": "/meɪks/"
+  },
+  "named": {
+    "cn": "名叫",
+    "ipa": "/neɪmd/"
+  },
+  "noticed": {
+    "cn": "注意到",
+    "ipa": "/ˈnoʊtɪst/"
+  },
+  "passed": {
+    "cn": "经过",
+    "ipa": "/pæst/"
+  },
+  "reading": {
+    "cn": "阅读",
+    "ipa": "/ˈriːdɪŋ/"
+  },
+  "remembered": {
+    "cn": "记住",
+    "ipa": "/rɪˈmembərd/"
+  },
+  "said": {
+    "cn": "说（过去式）",
+    "ipa": "/sed/"
+  },
+  "shone": {
+    "cn": "照耀（过去式）",
+    "ipa": "/ʃoʊn/"
+  },
+  "smiled": {
+    "cn": "微笑了",
+    "ipa": "/smaɪld/"
+  },
+  "stopped": {
+    "cn": "停止了",
+    "ipa": "/stɑːpt/"
+  },
+  "thought": {
+    "cn": "想；认为（过去式）",
+    "ipa": "/θɔːt/"
+  },
+  "tried": {
+    "cn": "尝试了",
+    "ipa": "/traɪd/"
+  },
+  "turned": {
+    "cn": "转身；变成",
+    "ipa": "/tɜːrnd/"
+  },
+  "wanted": {
+    "cn": "想要（过去式）",
+    "ipa": "/ˈwɑːntɪd/"
+  },
+  "was": {
+    "cn": "是（过去式）",
+    "ipa": "/wʌz/"
+  },
+  "working": {
+    "cn": "工作（进行时）",
+    "ipa": "/ˈwɜːrkɪŋ/"
+  },
+  "wrote": {
+    "cn": "写（过去式）",
+    "ipa": "/roʊt/"
+  },
+  "days": {
+    "cn": "天（复数）",
+    "ipa": "/deɪz/"
+  },
+  "diamonds": {
+    "cn": "钻石（复数）",
+    "ipa": "/ˈdaɪməndz/"
+  },
+  "eyes": {
+    "cn": "眼睛（复数）",
+    "ipa": "/aɪz/"
+  },
+  "friends": {
+    "cn": "朋友们",
+    "ipa": "/frendz/"
+  },
+  "hills": {
+    "cn": "小山（复数）",
+    "ipa": "/hɪlz/"
+  },
+  "leaves": {
+    "cn": "树叶（复数）",
+    "ipa": "/liːvz/"
+  },
+  "letters": {
+    "cn": "信件（复数）",
+    "ipa": "/ˈletərz/"
+  },
+  "lights": {
+    "cn": "灯光（复数）",
+    "ipa": "/laɪts/"
+  },
+  "memories": {
+    "cn": "回忆（复数）",
+    "ipa": "/ˈmeməriz/"
+  },
+  "phrases": {
+    "cn": "短语（复数）",
+    "ipa": "/freɪzɪz/"
+  },
+  "planes": {
+    "cn": "飞机（复数）",
+    "ipa": "/pleɪnz/"
+  },
+  "secrets": {
+    "cn": "秘密（复数）",
+    "ipa": "/ˈsiːkrəts/"
+  },
+  "stars": {
+    "cn": "星星（复数）",
+    "ipa": "/stɑːrz/"
+  },
+  "steps": {
+    "cn": "步骤（复数）",
+    "ipa": "/steps/"
+  },
+  "stories": {
+    "cn": "故事（复数）",
+    "ipa": "/ˈstɔːriz/"
+  },
+  "weeks": {
+    "cn": "周（复数）",
+    "ipa": "/wiːks/"
+  },
+  "growing": {
+    "cn": "成长（进行时）",
+    "ipa": "/ˈɡroʊɪŋ/"
+  },
+  "learning": {
+    "cn": "学习（进行时）",
+    "ipa": "/ˈlɜːrnɪŋ/"
+  },
+  "crossing": {
+    "cn": "穿过（进行时）",
+    "ipa": "/ˈkrɔːsɪŋ/"
+  },
+  "waiting": {
+    "cn": "等待（进行时）",
+    "ipa": "/ˈweɪtɪŋ/"
+  },
+  "herself": {
+    "cn": "她自己",
+    "ipa": "/hɜːrˈself/"
+  },
+  "slowly": {
+    "cn": "慢慢地",
+    "ipa": "/ˈsloʊli/"
+  },
+  "right": {
+    "cn": "正确的；右边",
+    "ipa": "/raɪt/"
+  },
+  "proud": {
+    "cn": "自豪的",
+    "ipa": "/praʊd/"
+  },
+  "tired": {
+    "cn": "疲倦的",
+    "ipa": "/taɪərd/"
+  },
+  "ready": {
+    "cn": "准备好的",
+    "ipa": "/ˈredi/"
+  },
+  "hard": {
+    "cn": "努力地；困难的",
+    "ipa": "/hɑːrd/"
+  },
+  "grandma's": {
+    "cn": "奶奶的（所有格）",
+    "ipa": "/ˈɡræmɑːz/"
+  }
+}
