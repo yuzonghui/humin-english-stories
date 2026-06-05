@@ -1,0 +1,15 @@
+{
+  "name": "humin-english-stories",
+  "version": "1.0.0",
+  "description": "胡敏考研英语趣味小故事 - 离线听打练习工具",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.3.3"
+  }
+}
